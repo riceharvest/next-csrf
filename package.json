@@ -83,6 +83,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "funding": {
+    "type": "GitHub",
+    "url": "https://github.com/sponsors/riceharvest"
+  },
   "engines": {
     "node": ">=18.0.0"
   }
