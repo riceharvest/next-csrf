@@ -74,13 +74,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riceharvest/opensourceframework.git",
-    "directory": "packages/next-csrf"
+    "url": "git+https://github.com/riceharvest/next-csrf.git"
   },
   "bugs": {
-    "url": "https://github.com/riceharvest/opensourceframework/issues?q=is%3Aissue+is%3Aopen+next-csrf"
+    "url": "https://github.com/riceharvest/next-csrf/issues"
   },
-  "homepage": "https://github.com/riceharvest/opensourceframework/tree/main/packages/next-csrf#readme",
+  "homepage": "https://github.com/riceharvest/next-csrf#readme",
   "publishConfig": {
     "access": "public"
   },
